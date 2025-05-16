@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **abirsarkar1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17u5Rf4JvAJ8hBmGzUq2WRcocljOD5o57/view?usp=sharing](https://drive.google.com/file/d/1aIcACxDt8mH5Rj7T0-H4mI78W-9UN9b0/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I2JwXr-8THp8Do4DTVvYVIsFNeuCnnYU/view?usp=sharing](https://drive.google.com/file/d/1I2JwXr-8THp8Do4DTVvYVIsFNeuCnnYU/view?usp=sharing)
 
 - ⚡ Fun fact **I drop punchlines like corrupted memory .**
 
