@@ -13,8 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=knightabir&label=Profile%20views&color=0e75b6&style=flat" alt="knightabir" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=knightabir&column=7" alt="knightabir" />
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" alt="coding" />
+</div>
 
 ---
 
@@ -89,12 +95,6 @@ I’m seeking growth pathways into **product companies**, deeper backend enginee
 *   RAG/Vector search foundations (learning)
 *   Gemini API / AI integrations in apps
 
-### Software Engineering Fundamentals
-*   Clean code & architecture
-*   Authentication & authorization (JWT, RBAC)
-*   API versioning & contracts
-*   Testable modules & structured validation
-
 ---
 
 ## 💼 Experience Highlights
@@ -126,39 +126,56 @@ I’m seeking growth pathways into **product companies**, deeper backend enginee
 *   **Strong validation & security** (JWT, RBAC)
 *   **Logging & Monitoring** for production insight
 *   **Automated Build & Deploy** through CI/CD
-*   **Documentation first** — clear READMEs, setup guides
-
----
-
-## 🎓 Education & Learning
-
-*   Self-driven mastery in core backend systems
-*   Continuous learning candidate — APIs, DevOps, AI/ML toolchains
-*   Hands-on practice with real apps, deployments, home lab experiments
 
 ---
 
 ## 🎯 Career Goals
 
-**Short-Term (3–12 months)**
-*   Ship production-ready backend systems
-*   Master system design principles
-*   Solidify DevOps fundamentals and get into a product-based engineering team
-
-**Mid-Term (1–3 years)**
-*   Lead backend/infra architecture
-*   Build AI-enabled product features using RAG + vector search
-*   Become a reliable tech driver in cross-functional teams
+*   **Short-Term**: Ship production-ready backend systems, master system design.
+*   **Mid-Term**: Lead backend/infra architecture, build AI-enabled product features.
 
 ---
 
-## ⚡ Strengths & Work Style
+## 📰 Latest Blog Posts
 
-*   **Pragmatic problem solving** (build it and ship it)
-*   **Full stack fluency** with backend bias
-*   **Self-starter** — quick prototyping + deployment
-*   **Remote + hybrid friendly**
-*   **Developer tools & automation lover**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github.com/knightabir/knightabir/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=knightabir&show_icons=true&locale=en&theme=radical" alt="knightabir" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knightabir&show_icons=true&locale=en&layout=compact&theme=radical" alt="knightabir" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knightabir&theme=radical" alt="knightabir" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=knightabir&label=Profile%20views&color=0e75b6&style=flat" alt="knightabir" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@knightabir"><img src="https://holopin.me/knightabir" alt="An image of @knightabir's Holopin badges" /></a>
+</p>
 
 ---
 
@@ -169,21 +186,3 @@ I’m seeking growth pathways into **product companies**, deeper backend enginee
 *   **Twitter:** [@its_abirsarkar](https://twitter.com/its_abirsarkar)
 *   **Dev.to:** [dev.to/abirsarkar](https://dev.to/abirsarkar)
 *   **LeetCode:** [leetcode.com/abir007](https://leetcode.com/abir007)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knightabir&show_icons=true&locale=en&layout=compact" alt="knightabir" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knightabir&show_icons=true&locale=en" alt="knightabir" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightabir&" alt="knightabir" />
-</p>
-
-<p align="center">
-  <a href="https://holopin.io/@knightabir"><img src="https://holopin.me/knightabir" alt="An image of @knightabir's Holopin badges" /></a>
-</p>
